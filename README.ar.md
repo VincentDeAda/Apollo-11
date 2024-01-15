@@ -85,7 +85,7 @@
 
 &nbsp;         | &nbsp;
 -------------: | -----:
-حقوق النشر      | في الملك العام
+حقوق النشر للبربابج      | في الملك العام
 Comanche055    | جزء من الكود المصدري للنظامColossus 2A، حاسوب ارشاد أبولو (AGC) للمركبة القيادية (CM) لأبولو 11<br>`Assemble revision 055 of AGC program Comanche by NASA`<br>`2021113-051. 10:28 APR. 1, 1969`
 Luminary099    | جزء من الكود المصدري للنظامLuminary 1A، حاسوب ارشاد أبولو (AGC) للمركبة القمرية (LM) لأبولو 11<br>`Assemble revision 001 of AGC program LMY99 by NASA`<br>`2021112-061. 16:27 JUL. 14, 1969`
 المُجمِّع      | yaYUL
